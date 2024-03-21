@@ -70,7 +70,7 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
           <configuration>
-            <test>com.test.Dashboard_apis.Testing</test>
+            <test>com.test.Dashboard_apis.CryoBlock_api</test>
           </configuration>
         </plugin>
       </plugins>
